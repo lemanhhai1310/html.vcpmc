@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="vcpmc" uploadOnCheckin="4f9e1b8c-bd77-47a3-a2dd-08f4f23e23d3">
+    <serverData>
+      <paths name="vcpmc">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="vcpmc" />
+  </component>
+</project>
